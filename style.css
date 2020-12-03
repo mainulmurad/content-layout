@@ -1,0 +1,67 @@
+.header{
+
+min-height: 50px;
+background-color:blue;
+width: 100%;
+}
+.wrapper{overflow: hidden;
+	border: 5px solid khaki;
+
+}
+.blog{ float: left;
+min-height: 400px;
+background-color:lavender;
+width: 60%;
+
+
+ }
+.contact{
+	float: right;
+	min-height: 400px;
+background-color:seagreen;
+width:40%;
+
+}
+.footer{
+
+min-height: 50px;
+background-color:silver;
+
+clear: both;
+}
+.wrapper1
+{
+	overflow: hidden;
+
+border: 2px solid khaki;
+}
+.single{
+	min-height: 400px;
+	background-color:palegreen;
+	border: 5px solid green;
+	width: 32.64%;
+	float: left;
+}
+.footer1{
+	min-height: 70px;
+background-color:silver;
+overflow: hidden
+}
+.wrapper2
+{
+	overflow: hidden;
+
+border: 2px solid khaki;
+}
+.single1{
+	min-height: 400px;
+	background-color:palegreen;
+	border: 5px solid green;
+	width: 24.3%;
+	float: left;
+}
+.footer2{
+	min-height: 70px;
+background-color:silver;
+overflow: hidden
+}
